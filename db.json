@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "name": "Estefania",
+      "surname": "Perrone",
+      "email": "perrone@email.com",
+      "password": "123456",
+      "token": "bG1Ptx4ZztwJwAoyjxQy",
+      "id": 1
+    }
+  ],
+  "products": []
+}
